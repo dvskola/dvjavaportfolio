@@ -7,3 +7,4 @@ Webbriktilnjer jag valt.
 1.4.4 (AA)	Se till att text går att förstora utan problem
 1.4.5 (AA)	Använd text, inte bilder, för att visa text
 2.4.2 (A)	Skriv beskrivande sidtitlar
+1.4.10 (AA)	Skapa en flexibel layout som fungerar vid förstoring eller liten skärm
